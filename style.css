@@ -1,0 +1,25 @@
+.first {
+    position: absolute;
+    top: 150pt;
+    left: 500px;
+    background-color: #FF9933;
+    height: 100px;
+    width: 550px;
+}
+
+img {
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    top: 100%;
+    left: 210px;
+}
+
+.third {
+    position: relative;
+    top: 310pt;
+    left: 500px;
+    background-color: #138808;
+    height: 100px;
+    width: 550px;
+}
